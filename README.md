@@ -1,56 +1,116 @@
-# Hello there 👋 I'm Adem  
+# Hello there 👋 I'm Adem
 
-**System & Cloud Engineer transitioning into DevOps – based in Amsterdam 🇳🇱**  
-I combine a strong SysAdmin background with modern cloud-native and DevOps practices to build reliable, automated, and scalable infrastructure.
+**Senior Platform & Cloud Engineer** >>> This guy ships
+
+I combine a strong Systems Engineering background with modern cloud-native and DevOps practices to design, automate, and operate reliable, scalable infrastructure.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- **Cloud:** Azure (AZ-104 & AZ-400 track), AKS  
-- **Containers & Orchestration:** Docker, Kubernetes, Helm  
-- **Infrastructure as Code:** Terraform (Azure-focused)  
-- **Configuration Management:** Ansible  
-- **Scripting & Automation:** Bash, Python (beginner), Go (basics)  
-- **DevOps:** CI/CD, GitHub Actions, Azure DevOps Pipelines  
-- **Linux:** Ubuntu, Debian, CentOS, systemd, networking, troubleshooting  
+### Cloud
+- Azure (AZ-104 & AZ-400 track)
+- AKS
+
+### Containers & Orchestration
+- Docker
+- Kubernetes
+- Helm
+
+### Infrastructure as Code
+- Terraform (Azure-focused)
+
+### Configuration Management
+- Ansible
+
+### Scripting & Automation
+- Bash
+- Python (beginner)
+- Go (basics)
+
+### DevOps
+- Git
+- GitHub Actions
+- Azure DevOps Pipelines
+
+### Linux
+- Ubuntu
+- Debian
+- CentOS
+- systemd
+- networking
+- troubleshooting
 
 ---
 
 ## 📘 What I’m Working On
 
-- Preparing for **CKA**
-- Studying **AZ-104** and **AZ-400**
-- Expanding my DevOps portfolio with:
-  - Kubernetes deployment examples  
-  - Terraform infrastructure modules  
-  - Ansible provisioning playbooks  
-  - Linux automation scripts  
-  - CI/CD workflow examples  
+- Certified Kubernetes Administrator (CKA)
+- AZ-104
+- AZ-400
+- Building production-style DevOps portfolio projects
+
+---
+
+## 🚀 Live Portfolio Features
+
+### Kubernetes + ASP.NET Platform Lab
+
+This project demonstrates an end-to-end application delivery workflow:
+
+✔ Built an ASP.NET web application  
+✔ Containerized using Docker  
+✔ Deployed to Kubernetes  
+✔ Debugged version mismatch and ImagePullBackOff issues  
+✔ Switched from imperative to declarative deployment  
+✔ Exposed application through Kubernetes Services  
+✔ Performed rolling updates  
+✔ Automated Docker builds using GitHub Actions CI  
 
 ---
 
 ## 🚀 DevOps Portfolio Highlights
 
-- **Kubernetes:** Deployments, Services, Probes, RBAC, resources  
-- **Terraform:** Azure Resource Group, Networking, VM provisioning  
-- **Linux Scripts:** Health checks, disk usage monitoring, log parsing  
-- **Ansible:** Automated server configuration & setup  
-- **CI/CD:** GitHub Actions & Azure DevOps (in progress)
+### Kubernetes
+- Deployments
+- Services
+- Probes
+- RBAC
+- Resource management
 
-👉 View everything here: **[devops-portfolio](https://github.com/adamovick/devops-portfolio)**
+### Terraform
+- Azure Resource Groups
+- Networking
+- VM provisioning
+
+### Linux Automation
+- Health checks
+- Disk usage monitoring
+- Log parsing
+
+### Ansible
+- Automated server configuration
+
+### CI/CD
+- GitHub Actions
+- Azure DevOps
 
 ---
 
 ## 📫 Contact
 
-- **Email:** ademkyl@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ademkoylu  
+**Email:** ademkyl@gmail.com  
+
+**LinkedIn:**  
+https://www.linkedin.com/in/ademkoylu
+
+**GitHub:**  
+https://github.com/adamovick
 
 ---
 
-## ⚡ A bit about me
+## ⚡ A Bit About Me
 
-I enjoy solving real infrastructure problems, automating repetitive tasks, learning cloud-native technologies, and continuously improving my workflow.  
-Curiosity and consistency drive me — every project I build here reflects the journey.
+I enjoy solving real infrastructure problems, automating repetitive work, learning cloud-native technologies, and continuously improving engineering workflows.
 
+Curiosity and consistency drive me — every project here reflects that journey.
